@@ -14,7 +14,7 @@
 .active-link {
   /* color: #f472b6; Tailwind pink-400 */
   border-bottom: 2px solid #f472b6;
-  padding-bottom: 2px;
+  padding-bottom: 2.1px;
   transition: all 0.1s ease-in-out;
 }
 
